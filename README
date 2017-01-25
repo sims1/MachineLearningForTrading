@@ -1,1 +1,10 @@
-// no need to read
+Task:
+
+1. properly retrieve csv data
+Acceptance Criteria:
+- get multiple stocks in one retrieve
+- add the option to get data based on date range
+
+2. improve the practice snippet
+Acceptance Criteria:
+- chain command, getData -> run test 
